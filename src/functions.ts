@@ -1,4 +1,4 @@
-import { setUncaughtExceptionCaptureCallback } from "process";
+//import { setUncaughtExceptionCaptureCallback } from "process";
 
 /**
  * Consumes a single temperature in Fahrenheit (a number) and converts to Celsius
