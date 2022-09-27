@@ -1,6 +1,6 @@
-import { Last } from "react-bootstrap/esm/PageItem";
+//import { Last } from "react-bootstrap/esm/PageItem";
 //import { isNoSubstitutionTemplateLiteral, nodeModuleNameResolver } from "typescript";
-import { shout } from "./functions";
+//import { shout } from "./functions";
 
 /**
  * Consume an array of numbers, and return a new array containing
