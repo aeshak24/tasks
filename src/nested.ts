@@ -57,7 +57,7 @@ export function findQuestion(
  */
 export function removeQuestion(questions: Question[], id: number): Question[] {
     return [
-        ...questions.filter((question:Question):boolean=> question.id != id)
+        ...questions.filter((question: Question): boolean => question.id != id)
     ];
 }
 
