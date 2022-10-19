@@ -60,36 +60,3 @@ export function CycleHoliday(): JSX.Element {
         </div>
     );
 }
-/*
-        if (Holiday === "Christmas: 🎄") {
-            updateHoliday("Fourth: 🎆");
-        }
-        else if (Holiday === "Fourth: 🎆"){
-            updateHoliday("Halloween: 🎃");
-        }
-        else if (Holiday === "Halloween: 🎃"){
-            updateHoliday("New Years:🍾  ");
-        }
-        else if(Holiday === "New Years:🍾  "){
-            updateHoliday("Valentines:💖 ");
-        }
-            updateHoliday("Christmas: 🎄");
-        }
-        function date(): void{
-            if (Holiday === "New Years:🍾 ") {
-                updateHoliday("Valentines:💖 ");
-            }
-            else if (Holiday === "Fourth: 🎆"){
-                updateHoliday("Halloween: 🎃");
-            }
-            else if (Holiday === "Halloween: 🎃"){
-                updateHoliday("New Years:🍾  ");
-            }
-            else if(Holiday === "New Years:🍾  "){
-                updateHoliday("Valentines:💖 ");
-            }  
-        }
-    }
-    return <div>Cycle Holiday</div>;
-}
-*/
