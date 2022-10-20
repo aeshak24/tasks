@@ -23,7 +23,7 @@ export function ChangeType(): JSX.Element {
                     <span> Short Answer</span>
                 )}
             </div>
-            {/* {<span>{QuestionType}</span>} */}
+            {<span>{QuestionType}</span>}
         </div>
     );
 }
